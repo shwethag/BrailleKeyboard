@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Super Simple Keyboard</string>
+    <string name="key_space">Abstand</string>
+    <string name="key_delete">Löschen</string>
+    <string name="key_shift">Umschalt</string>
+    <string name="key_chars">Zeichen</string>
+    <string name="key_text">Text</string>
+    <string name="key_enter">Fertig</string>
+    <string name="localType">de_DE</string>
+    <string name="keyboardLabel">Senioren Tastatur</string>
+    <string name="alphabetLayoutLabel">Alphabet Tastenbelegung ABCDE</string>
+    <string name="typewriterLayoutLabel">Typewriter Tastenbelegung QWERT</string>
+    <string name="settings_name">Tastatur-Einstellungen</string>
+    <string name="layout_selection_title">Tastaturbelegung Auswahl</string>
+    <string name="layout_selection_summary">Auswählen um die Tastaturbelegung zu ändern</string>
+    <string name="select_layout">Tastaturbelegung</string>
+    <string name="layouts">Tastaturbelegung</string>
+</resources>

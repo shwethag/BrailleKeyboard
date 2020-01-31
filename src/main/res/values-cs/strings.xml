@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Simple Keyboard</string>
+    <string name="key_chars">Znaky</string>
+    <string name="key_delete">Smazat</string>
+    <string name="key_enter">Hotovo</string>
+    <string name="key_shift">Vel/Mal</string>
+    <string name="key_space">Mezera</string>
+    <string name="key_text">Písmena</string>
+    <string name="localType">cs_CZ</string>
+    <string name="keyboardLabel">Klávesnice pro seniory</string>
+    <string name="alphabetLayoutLabel">Abecední rozvržení kláves ABCDE</string>
+    <string name="typewriterLayoutLabel">Rozvržení kláves klávesnice QWERT</string>
+    <string name="settings_name">Nastavení klávesnice</string>
+    <string name="layout_selection_title">Výběr rozložení kláves</string>
+    <string name="layout_selection_summary">Vyberte pro změnu rozvržení kláves klávesnice</string>
+    <string name="select_layout">Rozložení kláves</string>
+    <string name="layouts">Rozložení kláves</string>
+</resources>
