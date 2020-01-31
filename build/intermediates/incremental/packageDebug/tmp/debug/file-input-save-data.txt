@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Fri Jan 31 14:30:35 IST 2020
-0.baseType=DIRECTORY
-0.base=E\:\\Duo hackathon\\SuperSimpleKeyboard-master\\BrailleKeyboard\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-0.path=classes.dex
-0.set=DEX
-count=1
